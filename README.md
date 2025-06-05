@@ -41,6 +41,6 @@ A short video demo of the chatbot in action is included to showcase the features
 
 Feel free to reach out or connect with me:
 
-🔗 [LinkedIn](www.linkedin.com/in/abhirami-mj)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhirami-mj)
 
 📧 mjabhirami2005@gmail.com
