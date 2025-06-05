@@ -1,7 +1,7 @@
 # codmetric_Personal-Wellness-Assistant
 Developed as part of my internship at Codmetric (May–June 2025), this is a rule-based wellness chatbot built using Python and Tkinter. It provides health tips on diet, sleep, exercise, stress, and hydration through a simple GUI interface.
 
-## Personal Wellness Assistant 💬🧘‍♀️
+# Personal Wellness Assistant 💬🧘‍♀️
 
 This is a simple and intuitive wellness chatbot built with **Python** and **Tkinter**, created as part of my **AI Internship at Codmetric (May–June 2025)**. It responds to user queries using rule-based logic to support healthy lifestyle habits.
 
