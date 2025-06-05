@@ -25,3 +25,14 @@ This is a simple and intuitive wellness chatbot built with **Python** and **Tkin
    ```bash
    git clone https://github.com/yourusername/codmetric_Personal-Wellness-Assistant.git
    cd codmetric_Personal-Wellness-Assistant
+2. Make sure Python 3.x is installed.
+3. Run the chatbot:
+   ```bash
+   python Personal_Wellness_Assistant.py
+4. Enter your name when prompted and begin chatting!
+
+### 📬 Contact
+
+Feel free to reach out or connect with me:
+🔗 [LinkedIn](www.linkedin.com/in/abhirami-mj)
+📧 mjabhirami2005@gmail.com
