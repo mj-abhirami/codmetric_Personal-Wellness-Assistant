@@ -35,7 +35,7 @@ This is a simple and intuitive wellness chatbot built with **Python** and **Tkin
 
 A short video demo of the chatbot in action is included to showcase the features and flow.
 
-▶️ [Watch Demo Video](Task1_codmetric)
+▶️ [Watch Demo Video](Task1_codmetric.mp4)
 
 ### 📬 Contact
 
