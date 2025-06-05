@@ -34,5 +34,7 @@ This is a simple and intuitive wellness chatbot built with **Python** and **Tkin
 ### 📬 Contact
 
 Feel free to reach out or connect with me:
+
 🔗 [LinkedIn](www.linkedin.com/in/abhirami-mj)
+
 📧 mjabhirami2005@gmail.com
