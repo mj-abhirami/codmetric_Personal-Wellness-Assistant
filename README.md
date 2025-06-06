@@ -47,6 +47,14 @@ This is a simple and intuitive wellness chatbot built with **Python** and **Tkin
 
 --- 
 
+### 🎥 Demo
+
+A short video demo of the chatbot in action is included to showcase the features and flow.
+
+[Watch Demo Video](https://youtu.be/___5pPIuTBA)
+
+--- 
+
 ### 📬 Contact
 
 Feel free to reach out or connect with me:
